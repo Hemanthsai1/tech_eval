@@ -25,7 +25,7 @@ Download the full PowerPoint presentation to explore:
 - ✅ Example use cases and differences
 
 [Download Presentation](Octoparse_&_Oxylabs_Presentation.pptx)
-
+https://drive.google.com/file/d/10HNznm5EaXKrl9uhT6GMDsaSXZMkSimH/view?usp=drivesdk
 ---
 
 ## 🖼️ Output Images
@@ -54,3 +54,4 @@ TECHEVE
 - what.png # Visual of scraping setup
 - octoparse.mp4 # Demo video
 - Octoparse\_&_Oxylabs_Presentation.pptx # Presentation file
+
